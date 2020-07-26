@@ -1,0 +1,6 @@
+rootProject.name = 'spring-boot-examples'
+include 'rest-api-example'
+include 'graphql-api-example'
+include 'oauth2-server-example'
+include 'oauth2-jwt-example'
+
